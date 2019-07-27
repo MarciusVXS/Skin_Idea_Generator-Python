@@ -1,0 +1,397 @@
+ColorTheme: 1 #1 - Default Theme / 2 - Martin Theme / 3 - Custom (change values bellow)
+Colors:
+  ColorMain: "#20232c"
+  ColorActivatedMain: "#0f1014"
+  ColorBits: "#907852"
+  ColorText: "#908b90"
+  ColorActivatedText: "#FFFFFF"
+Themes:
+  - Academy
+  - Professor
+  - Arcade
+  - Battle Boss
+  - Arclight
+  - Arctic Ops
+  - Arctic Warfare
+  - Battlecast
+  - Resistance
+  - Creator
+  - Beast Hunter
+  - Bewitching
+  - Little Devil
+  - Little Angel
+  - Bewitching
+  - Bilgewater
+  - Blood Moon
+  - Blood Stone
+  - Sea Hunter
+  - Rogue Admiral
+  - Ironside
+  - Corsair
+  - Butcher
+  - Dark Candy
+  - Candy King
+  - Candy Cane
+  - Candy Queen
+  - Captain
+  - Challenger
+  - Conqueror
+  - Championship
+  - Forsaken
+  - Chosen
+  - Commando
+  - Cosmic Queen
+  - Dark Cosmic
+  - Cosmic Reaver
+  - Cosmic Enchantress
+  - Cosmic Blade
+  - Cosmic Dawn
+  - Cosmic Dusk
+  - Cosmic Defender
+  - Cosmic
+  - Cottontail
+  - Coven
+  - Safecracker
+  - Pickpocket
+  - Crimson Elite
+  - Sashimi
+  - Bird
+  - Barbecue
+  - Sinful Succulence
+  - Sinful
+  - Butcher
+  - Baker
+  - Butcher
+  - Pizza Delivery
+  - Master Chef
+  - Dark Star
+  - Dark Waters
+  - Dawnbringer
+  - Nightbringer
+  - Death Blossom
+  - Death Sworn
+  - Debonair
+  - Mythical
+  - Scuba
+  - Deep Sea
+  - Deep Terror
+  - Definitely Not
+  - Demacia Vice
+  - Dragonblade
+  - Dragonslayer
+  - Dragon Master
+  - Dragon Sorceress
+  - Dragon Trainer
+  - Dragon
+  - Dreadknight
+  - Dreadnova
+  - Dunkmaster
+  - Ambitious Elf
+  - Happy Elf
+  - Earnest Elf
+  - Angry Elf
+  - Jealous Elf
+  - Elf
+  - Elderwood
+  - Dryad
+  - Emerald
+  - Ruby
+  - Sapphire
+  - Topaz
+  - Eternum
+  - Fnatic
+  - Freljord
+  - Frostfire
+  - Blackfrost
+  - Frosted
+  - Frostblade
+  - Frost Queen
+  - Frost King
+  - Frozen Prince
+  - Frozen Princess
+  - Frozen Terror
+  - Frozen
+  - Full Metal
+  - Full Machine
+  - Piltover Customs
+  - Robot
+  - Galactic
+  - Gentleman
+  - Archduke
+  - Order of the Banana
+  - Glacial
+  - God
+  - Risen
+  - Guardian of the Sands
+  - Haunted
+  - Haunting
+  - Headhunter
+  - Headmistress
+  - Heartseeker
+  - Heartpiercer
+  - Sweetheart
+  - Heartbreaker
+  - Hextech
+  - High Noon
+  - Ace of Spades
+  - King of Clubs
+  - Wild Card
+  - Queen of Diamonds
+  - Jack of Heartseeker
+  - Hired Guardian
+  - Minuteman
+  - Waterloo
+  - Ice Drake
+  - Ice King
+  - Divine Sword
+  - Soaring Sword
+  - Sacred Sword
+  - Eternal Sword
+  - Enduring Sword
+  - Imperial
+  - Infernal
+  - IG
+  - Lancer Zero
+  - Lancer Rogue
+  - Lancer Paragon
+  - Lancer Stratus
+  - Lunar
+  - Jurassic
+  - Justicar
+  - El Macho
+  - K/DA
+  - Popstar
+  - Mad Scientist
+  - Mafia
+  - Gangster
+  - Marauder
+  - Mecha
+  - Royal Guard
+  - Musketeer
+  - Champ Name
+  - Nightmare
+  - Northern
+  - Noxus
+  - Odyssey
+  - Officer
+  - Omega Squad
+  - Order of the Lotus
+  - Panda
+  - Papercraft
+  - PAX
+  - NEO PAX
+  - Pentakill
+  - Pharaoh
+  - Iron Inquisitor
+  - Cursed Revenant
+  - Black Scourge
+  - Undertaker
+  - Pool Party
+  - Praetorian
+  - Prehistoric
+  - Program
+  - PROJECT
+  - Prom King
+  - Prom Queen
+  - Pulsefire
+  - Pumpkinhead
+  - Headless
+  - Reaper
+  - Lionheart
+  - Rugged
+  - RPG
+  - Demolisher
+  - Swift
+  - Riot
+  - Royal
+  - Rune
+  - Sandstorm
+  - Santa
+  - Secret Agent
+  - Scorched
+  - SKT T1
+  - Slayer
+  - Cut Purse
+  - Cut Throat
+  - Snow Day
+  - Snowstorm
+  - Soccer
+  - Soulstealer
+  - Special Forces
+  - Special Weapon
+  - SSG
+  - SSW
+  - Star Guardian
+  - Pajama Guardian
+  - Steel Legion
+  - Super Galaxy
+  - Neon
+  - Surprise Party
+  - Tango
+  - Toy
+  - TPA
+  - Tundra
+  - Underworld
+  - URF
+  - Valkyrie
+  - Dark Valkyrie
+  - Vandal
+  - Victorious
+  - Void
+  - Warden
+  - Warring Kingdoms
+  - Opera(web browser theme)
+  - Edge(web browser theme)
+  - Wicked
+  - Winter Wonder
+  - Woad
+  - Woad King
+  - Woad Queen
+  - Worldbreaker
+  - Worldweaver
+  - Zombie
+Champions:
+  - Aatrox
+  - Ahri
+  - Akali
+  - Alistar
+  - Amumu
+  - Anivia
+  - Annie
+  - Ashe
+  - Aurelion Sol
+  - Azir
+  - Bard
+  - Blitzcrank
+  - Brand
+  - Braum
+  - Caitlyn
+  - Camille
+  - Cassiopeia
+  - Cho Gath
+  - Corki
+  - Darius
+  - Diana
+  - Dr Mundo
+  - Draven
+  - Ekko
+  - Elise
+  - Evelynn
+  - Ezreal
+  - Fiddlesticks
+  - Fiora
+  - Fizz
+  - Galio
+  - Gangplank
+  - Garen
+  - Gnar
+  - Gragas
+  - Graves
+  - Hecarim
+  - Heimerdinger
+  - Illaoi
+  - Irelia
+  - Ivern
+  - Janna
+  - Jarvan IV
+  - Jax
+  - Jayce
+  - Jhin
+  - Jinx
+  - Kai Sa
+  - Kalista
+  - Karma
+  - Karthus
+  - Kassadin
+  - Katarina
+  - Kayle
+  - Kayn
+  - Kennen
+  - Kha Zix
+  - Kindred
+  - Kled
+  - Kog Maw
+  - LeBlanc
+  - Lee Sin
+  - Leona
+  - Lissandra
+  - Lucian
+  - Lulu
+  - Lux
+  - Malphite
+  - Malzahar
+  - Maokai
+  - Master Yi
+  - Miss Fortune
+  - Mordekaiser
+  - Morgana
+  - Nami
+  - Nasus
+  - Nautilus
+  - Neeko
+  - Nidalee
+  - Nocturne
+  - Nunu & Willump
+  - Olaf
+  - Orianna
+  - Ornn
+  - Pantheon
+  - Poppy
+  - Pyke
+  - Quinn
+  - Rakan
+  - Rammus
+  - Rek Sai
+  - Renekton
+  - Rengar
+  - Riven
+  - Rumble
+  - Ryze
+  - Sejuani
+  - Shaco
+  - Shen
+  - Shyvana
+  - Singed
+  - Sion
+  - Sivir
+  - Skarner
+  - Sona
+  - Soraka
+  - Swain
+  - Sylas
+  - Syndra
+  - Tahm Kench
+  - Taliyah
+  - Talon
+  - Taric
+  - Teemo
+  - Thresh
+  - Tristana
+  - Trundle
+  - Tryndamere
+  - Twisted Fate
+  - Twitch
+  - Udyr
+  - Urgot
+  - Varus
+  - Vayne
+  - Veigar
+  - Vel Koz
+  - Vi
+  - Viktor
+  - Vladimir
+  - Volibear
+  - Warwick
+  - Wukong
+  - Xayah
+  - Xerath
+  - Xin Zhao
+  - Yasuo
+  - Yorick
+  - Yuumi
+  - Zac
+  - Zed
+  - Ziggs
+  - Zilean
+  - Zoe
+  - Zyra
