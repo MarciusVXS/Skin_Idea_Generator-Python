@@ -31,9 +31,12 @@ class Win(tk.Tk):
         self._offsetx = event.x
         self._offsety = event.y
 
-
-if os.path.exists("config.yaml"):
-    with open('config.yaml') as f:
+if os.path.exists("SIG-generated/"):
+    pass
+else:
+    os.mkdir("SIG-generated/")
+if os.path.exists("SIG-generated/config.yaml"):
+    with open('SIG-generated/config.yaml') as f:
         data = yaml.safe_load(f)
     ColorMode = data["ColorTheme"]
     if ColorMode == 3:
@@ -55,9 +58,12 @@ else:
     url = 'https://raw.githubusercontent.com/marcius922/Skin_Idea_Generator-Python/master/config.yaml'  # url of paste
     r = requests.get(url)
     content = r.text
-    intcfg = open("config.yaml", "w")
+    intcfg = open("SIG-generated/config.yaml", "w")
     intcfg.write(content)
     intcfg.close()
+
+with open('SIG-generated/config.yaml') as f:
+    data = yaml.safe_load(f)
 
 
 Root = Win()
@@ -144,8 +150,7 @@ def funcgenerate():
 def funcexport():
     opint = 1
     while True:
-        os.mkdir('generated/')
-        opfile = 'generated/output' + str(opint) + '.txt'
+        opfile = 'SIG-generated/output' + str(opint) + '.txt'
         if os.path.exists(opfile):
             opint += 1
             continue
@@ -154,6 +159,7 @@ def funcexport():
             outputfile.write(FrameRightText.get('1.0', 'end'))
             outputfile.close()
             break
+
 
 GenAmount = 1
 GenEntry = tk.Entry(FrameLeft, **ThemeEntry, justify='right')
