@@ -1,4 +1,5 @@
 ColorTheme: 1 #1 - Default Theme / 2 - Martin Theme / 3 - Custom (change values bellow)
+WindowsMode: False #True - default windows window mode / False - Custom
 Colors:
   ColorMain: "#20232c"
   ColorActivatedMain: "#0f1014"
