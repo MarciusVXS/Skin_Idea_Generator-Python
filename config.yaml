@@ -31,9 +31,7 @@ Themes:
   - Corsair
   - Butcher
   - Dark Candy
-  - Candy King
-  - Candy Cane
-  - Candy Queen
+  - Candy
   - Captain
   - Challenger
   - Conqueror
@@ -41,14 +39,7 @@ Themes:
   - Forsaken
   - Chosen
   - Commando
-  - Cosmic Queen
   - Dark Cosmic
-  - Cosmic Reaver
-  - Cosmic Enchantress
-  - Cosmic Blade
-  - Cosmic Dawn
-  - Cosmic Dusk
-  - Cosmic Defender
   - Cosmic
   - Cottontail
   - Coven
@@ -106,8 +97,7 @@ Themes:
   - Blackfrost
   - Frosted
   - Frostblade
-  - Frost Queen
-  - Frost King
+  - Frost
   - Frozen Prince
   - Frozen Princess
   - Frozen Terror
@@ -144,18 +134,11 @@ Themes:
   - Waterloo
   - Ice Drake
   - Ice King
-  - Divine Sword
-  - Soaring Sword
-  - Sacred Sword
-  - Eternal Sword
-  - Enduring Sword
+  - Sword
   - Imperial
   - Infernal
   - IG
-  - Lancer Zero
-  - Lancer Rogue
-  - Lancer Paragon
-  - Lancer Stratus
+  - Lancer
   - Lunar
   - Jurassic
   - Justicar
@@ -179,6 +162,7 @@ Themes:
   - Order of the Lotus
   - Panda
   - Papercraft
+  - PsyOps
   - PAX
   - NEO PAX
   - Pentakill
@@ -192,13 +176,16 @@ Themes:
   - Prehistoric
   - Program
   - PROJECT
-  - Prom King
-  - Prom Queen
+  - Prom
   - Pulsefire
   - Pumpkinhead
   - Headless
   - Reaper
   - Lionheart
+  - Lunar Beast
+  - Shan Hai Scroll
+  - Ruined
+  - Battle
   - Rugged
   - RPG
   - Demolisher
@@ -211,6 +198,7 @@ Themes:
   - Secret Agent
   - Scorched
   - SKT T1
+  - FPX
   - Slayer
   - Cut Purse
   - Cut Throat
@@ -220,8 +208,10 @@ Themes:
   - Soulstealer
   - Special Forces
   - Special Weapon
+  - Spirit Blossom
   - SSG
   - SSW
+  - Sugar Rush
   - Star Guardian
   - Pajama Guardian
   - Steel Legion
@@ -253,6 +243,7 @@ Themes:
   - Zombie
 Champions:
   - Aatrox
+  - Aphelios
   - Ahri
   - Akali
   - Alistar
@@ -315,6 +306,7 @@ Champions:
   - LeBlanc
   - Lee Sin
   - Leona
+  - Lillia
   - Lissandra
   - Lucian
   - Lulu
@@ -340,15 +332,21 @@ Champions:
   - Poppy
   - Pyke
   - Quinn
+  - Qiyana
   - Rakan
   - Rammus
   - Rek Sai
+  - Rell
   - Renekton
   - Rengar
   - Riven
   - Rumble
   - Ryze
+  - Samira
   - Sejuani
+  - Senna
+  - Sett
+  - Seraphine
   - Shaco
   - Shen
   - Shyvana
@@ -379,6 +377,7 @@ Champions:
   - Veigar
   - Vel Koz
   - Vi
+  - Viego
   - Viktor
   - Vladimir
   - Volibear
@@ -388,6 +387,7 @@ Champions:
   - Xerath
   - Xin Zhao
   - Yasuo
+  - Yone
   - Yorick
   - Yuumi
   - Zac
